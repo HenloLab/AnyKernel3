@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sprit-E for Redmi 9
+kernel.string=Dream kernel for MT6768
 do.devicecheck=0
 do.modules=0
 do.systemless=1
